@@ -1,6 +1,6 @@
 import { Tabs } from 'expo-router';
 
-import TabBar from '@/components/tab-bar-v2';
+import TabBar from '@/components/tab-bar-v3';
 
 export default function Layout() {
   return (
